@@ -39,9 +39,8 @@ This is a simple web application built using Streamlit that allows users to auto
     pip install streamlit pywhatkit
 
 6.   Run the Streamlit app.
-
      ```bash
-    streamlit run app.py
+     streamlit run app.py
 7.  Open your web browser and go to the following URL:
 
 arduino
